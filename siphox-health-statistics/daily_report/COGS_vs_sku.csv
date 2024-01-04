@@ -1,0 +1,13 @@
+sku,COGS,discount_code_override,COGS_override,Note
+quantify_mens_health_kit_tier_I,80,,,1 kit
+quantify_mens_health_kit_tier_II,80,,,1 kit
+quantify_mens_health_kit_tier_III,80,,,1 kit
+quantify_womens_health_kit_tier_I,80,,,1 kit
+quantify_womens_health_kit_tier_II,80,,,1 kit
+quantify_womens_health_kit_tier_III,80,,,1 kit
+unlimited_membership,207,unlimited_membership_kit,80,starter items + box + CGM
+quantify_starter_kit-2,0,,,Shipped with unlimited_membership for a while- let's not worry about this one
+unlimited_membership-2,0,unlimited_membership_kit,80,starter items+box- started selling cgm separately
+quantify_cgm,127,,,
+blue_light_blockers,0,,,part of membership
+test_product,0,,,Just a test
